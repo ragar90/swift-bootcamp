@@ -38,3 +38,39 @@
     }
     ```
 
+# Operators
+
+- Assigment operator `=` or `let (x,y)
+ = (1, 3)`
+- Arithmetic Operators
+  - `+` Addition & String concatenation 
+  - `-` Subtraction
+  - `*` Multiplication
+  - `/` Division
+  - `%` Reminder or Module
+- Compound Operators
+  - `+=` Adds on top of the value and reassigns the result to the variable `a +=2`
+- Comparison Operators
+  -  `a == b` Equal to
+  -  `a != b` Not equal to
+  -  `a > b` Greater than
+  -  `a < b` Less than
+  -  `a >= b` Greater than or equal to
+  -  `a <= b` Less than or equal to
+- Ternary Operators
+  - `condition ? answer1 : answer2` conditions check
+  - `optionaVariable ?? defaultValue` Nil-Coalescing Operator
+- Range operators
+  - `(a..b)` Closed range operators, goes from a inclusive to b inclusive
+  - `(a..<b)` Half-Open Range Operator, goes from a inclusive to b exclusive
+  - `[a..]` One-Sided Ranges, starts in a and continues as long as possible
+  - `[a..<b]` Half-Open One-Sided Ranges
+
+- Logical Operators
+  - `!a` NOT a
+  - `a && b` a AND b
+  - `a || b` a OR b
+
+
+
+
