@@ -1,4 +1,5 @@
-# Variables
+# Swift Summary
+## Variables
 - `let` for constants
 - `var` for variables
 - `print()` to log variables
@@ -38,7 +39,7 @@
     }
     ```
 
-# Operators
+## Operators
 
 - Assigment operator `=` or `let (x,y)
  = (1, 3)`
